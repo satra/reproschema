@@ -8,7 +8,7 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "preamble": "Hit record and read the sentences.",
-    "question": "Let me sing by the moon with novel phonemes. The is nothing in my spoon to use as a sling.",
+    "question": "Let me sing by the moon with novel phonemes. There is nothing in my spoon to use as a sling.",
     "ui": {
         "inputType": "audioPassageRecord"
     },
