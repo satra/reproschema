@@ -1,0 +1,50 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/satra/reproschema/blob/prot-tom/activities/Covid19/Covid19_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "Covid19_schema",
+    "skos:prefLabel": "Covid19 voice tasks",
+    "skos:altLabel": "Covid19 voice tasks",
+    "schema:description": "Covid19 Voice tasks",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": {
+        "en": "For each task, you should hit the record button before speaking and then stop once you are done speaking. You may hit play to hear what was recorded.",
+        "es": "Para cada pregunta, debería hacer click sobre el botón antes de hablar y luego hacerlo de nuevo para parar de grabar. Luego puede tocar play para escuchar su respuesta."
+    },
+    "variableMap": [
+        {"variableName": "multipart_audio_check", "isAbout": "multipart_audio_check"},
+        {"variableName": "caterpillar", "isAbout": "caterpillar"},
+        {"variableName": "caterpillar_fast", "isAbout": "caterpillar_fast"},
+        {"variableName": "say_ah", "isAbout": "say_ah"},
+        {"variableName": "say_ee", "isAbout": "say_ee"},
+        {"variableName": "say_oo", "isAbout": "say_oo"},
+        {"variableName": "pataka", "isAbout": "pataka"}
+    ],
+    "ui": {
+        "order": [
+            "multipart_audio_check",
+            "caterpillar",
+            "caterpillar_fast",
+            "say_ah",
+            "say_ee",
+            "say_oo",
+            "pataka"
+        ],
+        "shuffle": false,
+        "visibility": [
+            {"variableName": "multipart_audio_check", "isVis": true},
+            {"variableName": "caterpillar", "isVis": true},
+            {"variableName": "caterpillar_fast", "isVis": true},
+            {"variableName": "say_ah", "isVis": true},
+            {"variableName": "say_ee", "isVis": true},
+            {"variableName": "say_oo", "isVis": true},
+            {"variableName": "pataka", "isVis": true}
+        ]
+    }
+}
+
+
+
+
