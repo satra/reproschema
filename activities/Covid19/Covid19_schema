@@ -1,6 +1,6 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/satra/reproschema/blob/prot-tom/activities/Covid19/Covid19_context"
+        "https://raw.githubusercontent.com/satra/reproschema/prot-tom/activities/Covid19/Covid19_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "Covid19_schema",
