@@ -40,6 +40,50 @@
             "@id": "covid19:caterpillar_fast",
             "@type": "@id"
         },
+        "say_n": {
+            "@id": "covid19:say_n",
+            "@type": "@id"
+        },
+        "say_ng": {
+            "@id": "covid19:say_ng",
+            "@type": "@id"
+        },
+        "say_m": {
+            "@id": "covid19:say_m",
+            "@type": "@id"
+        },
+        "coughs": {
+            "@id": "covid19:coughs",
+            "@type": "@id"
+        },
+        "deep_breath": {
+            "@id": "covid19:deep_breath",
+            "@type": "@id"
+        },
+        "free_speech_food": {
+            "@id": "covid19:free_speech_food",
+            "@type": "@id"
+        },
+        "kmart_exhale": {
+            "@id": "covid19:kmart_exhale",
+            "@type": "@id"
+        },
+        "kmart_inhale": {
+            "@id": "covid19:kmart_inhale",
+            "@type": "@id"
+        },
+        "kmart_natural": {
+            "@id": "covid19:kmart_natural",
+            "@type": "@id"
+        },
+        "nasal_high": {
+            "@id": "covid19:nasal_high",
+            "@type": "@id"
+        },
+        "nasal_pinched": {
+            "@id": "covid19:nasal_pinched",
+            "@type": "@id"
+        },
         "multipart_audio_check": {
             "@id": "https://raw.githubusercontent.com/ReproNim/reproschema/master/activities/VoiceScreening/multipart_audio_check",
             "@type": "@id"
