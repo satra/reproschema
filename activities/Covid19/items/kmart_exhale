@@ -15,7 +15,7 @@
     "responseOptions": {
         "type": "audioPassageRecord",
         "schema:minValue": 0,
-        "schema:maxValue": 15000,
+        "schema:maxValue": 20000,
         "requiredValue": true
     }
 }

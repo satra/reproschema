@@ -54,27 +54,7 @@
             "pataka",
             "nasal_pinched"
         ],
-        "shuffle": false,
-        "visibility": [
-            {"variableName": "multipart_audio_check", "isVis": true},
-            {"variableName": "caterpillar", "isVis": true},
-            {"variableName": "caterpillar_fast", "isVis": true},
-            {"variableName": "say_ah", "isVis": true},
-            {"variableName": "say_ee", "isVis": true},
-            {"variableName": "say_oo", "isVis": true},
-            {"variableName": "pataka", "isVis": true},
-            {"variableName": "say_n", "isVis": true},
-        {"variableName": "say_ng", "isVis": true},
-        {"variableName": "say_m", "isVis": true},
-        {"variableName": "coughs", "isVis": true},
-        {"variableName": "deep_breath", "isVis": true},
-        {"variableName": "free_speech_food", "isVis": true},
-        {"variableName": "kmart_exhale", "isVis": true},
-        {"variableName": "kmart_inhale", "isVis": true},
-        {"variableName": "kmart_natural", "isVis": true},
-        {"variableName": "nasal_high", "isVis": true},
-        {"variableName": "nasal_pinched", "isVis": true}
-        ]
+        "shuffle": false
     }
 }
 
